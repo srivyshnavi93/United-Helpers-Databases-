@@ -1,13 +1,4 @@
-#CSCI 466/566 - Gruop Project - Semester (Fall) 2016
-#File:        	prog.py
-#Author:         Akhil Reddy P.,  Adithya B. , Srivyshnavi G., Gayatri T.
-#Zid:            z1803493
-#Section:        1
-#Instructor:     Jon Lehuta
-#TA: 			Rajeswari Gundu
-#TA: 			Bari Abdul
-#Date Due:       Wednesday, November 30, 2016
-#Purpose:        Computing the python and mysql connectivity 
+ 
 
 import MySQLdb
 
